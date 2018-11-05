@@ -1,3 +1,3 @@
 # test
 ## Events
-[Get to know you night](./Getting+to+Know+You+Night.pdf)
+[Get to know you night](./Getting%20to%20Know%20You%20Night.pdf)
